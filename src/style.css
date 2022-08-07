@@ -53,6 +53,12 @@ li:first-letter {
   font-size: 16px;
   top: -24px;
 }
+.celcius-unit,
 .fahrenheit-unit {
   text-decoration: none;
+}
+
+.weather-temperature .active {
+  color: rgb(32, 33, 36);
+  cursor: default;
 }
